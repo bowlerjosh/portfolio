@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name":"Josh Carter",
+    "occupation":"Engineering Manger, Mobile Software",
+    "description":"I am a self driven Apple enthusiast who is always thinking about how to automate a process and make things more streamlined.",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"If you would like to get in touch with me, please reach out!",
+    "email": "jpc82092@hotmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Auburn",
+      "state":"AL",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/bowlerjosh",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joshcarterswe",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/bowlerjosh",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have many skills that are focused around mobile app development, app design, and management.  I would never say I am 100% efficient in any skill as there is always the ability to learn more.",
+    "education":[
+      {
+        "school":"Auburn University",
+        "degree":"Bachelor's of Software Engineering &",
+        "graduated":"May 2016",
+        "description":"Completed my bachelors at Auburn University while working part time in mobile app development from Sophomore to Senior year.  Also received a Cooperative Education Diploma while working 4 alternating semesters."
+      }
+    ],
+    "work":[
+      {
+        "company":"OCV, LLC",
+        "title":"Engineering Manager, Mobile Software",
+        "years":"May 2016 - Present",
+        "description":"- Lead a team of developers to help create an app of high quality and to satisfy the client’s specifications\n- Lead development and implementation of new features to be used throughout all apps\n- Coordinate and participate in the implementation, testing, and support of Android and iOS native applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle.\n- Involved in the hiring and training process"
+      },
+      {
+        "company":"OCV, LLC",
+        "title":"Lead iOS Developer",
+        "years":"Dec 2014 - May 2016 (1 yr 6 mos)",
+        "description":"- Lead a team of developers to help create an app of high quality and for the buyer’s specifications\n- Lead development and implementation of new features to be used throughout all apps\n- Coordinate and participate in the implementation, testing, and support of iOS-based applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle."
+      },
+      {
+        "company":"OCV, LLC",
+        "title":"iOS Developer",
+        "years":"Oct 2013 - Dec 2014 (1 yr 3 mos)",
+        "description":"- Help develop apps with a team to a high quality level for the buyer’s specifications\n- Coordinate and participate in the implementation, testing, and support of iOS-based applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle."
+      },
+      {
+        "company":"Georgia-Pacific LLC, (Brewton, AL)",
+        "title":"IT Co-Op",
+        "years":"Fall Semester 2012, Summer Semester 2013, Spring Semester 2014, and Fall Semester 2014",
+        "description":"Provided 1st level support and knowledge involving all hardware and software including workstations, laptops, servers, thin clients, and more."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JSON",
+        "level":"75%"
+      },
+      {
+        "name":"Project Management",
+        "level":"75%"
+      },
+      {
+        "name":"Product Management",
+        "level":"75%"
+      },
+      {
+        "name":"Mobile Design (UI/UX)",
+        "level":"60%"
+      },
+      {
+        "name":"Swift",
+        "level":"60%"
+      },
+      {
+        "name":"Adobe XD",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"Objective-C",
+        "level":"50%"
+      },
+      {
+        "name":"Agile & Waterfall Methodologies",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"25%"
+      },
+      {
+        "name":"Java",
+        "level":"25%"
+      },
+      {
+        "name":"Amazon Web Services (Mobile Focus)",
+        "level":"20%"
+      },
+      {
+        "name":"Kotlin",
+        "level":"10%"
+      },
+      {
+        "name":"CSS",
+        "level":"10%"
+      },
+      {
+        "name":"HTML5",
+        "level":"10%"
+      },
+      {
+        "name":"Mongo DB",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
