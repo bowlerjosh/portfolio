@@ -140,18 +140,18 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Alabama WIC",
+        "category":"Mobile App",
+        "image":"alabamaWic.png",
+        "url":"https://apps.apple.com/us/app/alabama-wic/id1083172313"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Do or Do Not, There is No Try.",
+        "user":"Yoda"
       }
     ]
   }
