@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Josh Carter",
-    "occupation":"Engineering Manger, Mobile Software",
-    "description":"I am a self driven Apple enthusiast who is always thinking about how to automate a process and make things more streamlined",
-    "image":"profilepic.jpeg",
+    "occupation":"Software Engineering Manger",
+    "description":"I am a software engineer and a people person at heart.  I am mobile app development focused (iOS and Android) and primarily work on client requested apps.  I always give 110% to any problem and always have a \"knock-it-out\" attitude.",
+    "image":"/profilepic.jpeg",
     "bio":"Love my wife and two sons | Huge Auburn sports fan | Huge Braves fan | Appreciate a good video game | League Bowler (~200 book average)",
     "contactmessage":"If you would like to get in touch with me, please reach out!",
     "email": "jpc82092@hotmail.com",
@@ -48,7 +48,7 @@
         "company":"OCV, LLC",
         "title":"Engineering Manager, Mobile Software",
         "years":"May 2016 - Present",
-        "description":"- Lead a team of developers to help create an app of high quality and to satisfy the client’s specifications\n- Lead development and implementation of new features to be used throughout all apps\n- Coordinate and participate in the implementation, testing, and support of Android and iOS native applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle.\n- Involved in the hiring and training process"
+        "description":"- Lead a team of developers to help create an app of high quality and to satisfy the client’s specifications<br/>- Lead development and implementation of new features to be used throughout all apps\n- Coordinate and participate in the implementation, testing, and support of Android and iOS native applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle.\n- Involved in the hiring and training process"
       },
       {
         "company":"OCV, LLC",
@@ -119,10 +119,6 @@
         "level":"20%"
       },
       {
-        "name":"Kotlin",
-        "level":"5%"
-      },
-      {
         "name":"CSS",
         "level":"10%"
       },
@@ -133,6 +129,10 @@
       {
         "name":"Mongo DB",
         "level":"10%"
+      },
+      {
+        "name":"Kotlin",
+        "level":"5%"
       }
     ]
   },
@@ -141,7 +141,7 @@
       {
         "title":"Alabama WIC",
         "category":"Mobile App",
-        "image":"alabamaWic.png",
+        "image":"/alabamaWic.png",
         "url":"https://apps.apple.com/us/app/alabama-wic/id1083172313"
       }
     ]
