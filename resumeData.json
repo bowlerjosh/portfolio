@@ -2,7 +2,7 @@
   "main": {
     "name":"Josh Carter",
     "occupation":"Software Engineering Manger",
-    "description":"I am a software engineer and a people person at heart.  I am mobile app development focused (iOS and Android) and primarily work on client requested apps.  I always give 110% to any problem and always have a \"knock-it-out\" attitude.  I'm always looking at a process or product and trying to make it more streamlined and simple.",
+    "description":"I am a software engineer and a people person at heart.  I am mobile app development focused (iOS and Android) and primarily work on client requested apps.  I always give 110% to any problem and always have a \"knock-it-out\" attitude.  I'm always looking at a process or product and trying to make it more streamlined and simple",
     "image":"/profilepic.jpeg",
     "bio":"Love my wife and two sons | Huge Auburn sports fan | Huge Braves fan | Appreciate a good video game | League Bowler (~200 book average)",
     "contactmessage":"If you would like to get in touch with me, please reach out! \"The man who asks a stupid question is a fool for a minute. The man who does not ask a stupid question is a fool for life.\"",
@@ -48,19 +48,19 @@
         "company":"OCV, LLC",
         "title":"Engineering Manager, Mobile Software",
         "years":"May 2016 - Present",
-        "description":"- Lead a team of developers to help create an app of high quality and to satisfy the client’s specifications<br/>- Lead development and implementation of new features to be used throughout all apps\n- Coordinate and participate in the implementation, testing, and support of Android and iOS native applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle.\n- Involved in the hiring and training process"
+        "description":"Lead a team of developers to help create an app of high quality and to satisfy the client’s specifications | Lead development and implementation of new features to be used throughout all apps | Coordinate and participate in the implementation, testing, and support of Android and iOS native applications | Assist in testing all applications against software and hardware versions. | Provide timely turnaround and documentation of bug fixes during test cycle. | Involved in the hiring and training process"
       },
       {
         "company":"OCV, LLC",
         "title":"Lead iOS Developer",
         "years":"Dec 2014 - May 2016 (1 yr 6 mos)",
-        "description":"- Lead a team of developers to help create an app of high quality and for the buyer’s specifications\n- Lead development and implementation of new features to be used throughout all apps\n- Coordinate and participate in the implementation, testing, and support of iOS-based applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle."
+        "description":"- Lead a team of developers to help create an app of high quality and for the buyer’s specifications | Lead development and implementation of new features to be used throughout all apps | Coordinate and participate in the implementation, testing, and support of iOS-based applications | Assist in testing all applications against software and hardware versions. | Provide timely turnaround and documentation of bug fixes during test cycle."
       },
       {
         "company":"OCV, LLC",
         "title":"iOS Developer",
         "years":"Oct 2013 - Dec 2014 (1 yr 3 mos)",
-        "description":"- Help develop apps with a team to a high quality level for the buyer’s specifications\n- Coordinate and participate in the implementation, testing, and support of iOS-based applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle."
+        "description":"- Help develop apps with a team to a high quality level for the buyer’s specifications | Coordinate and participate in the implementation, testing, and support of iOS-based applications | Assist in testing all applications against software and hardware versions. | Provide timely turnaround and documentation of bug fixes during test cycle."
       },
       {
         "company":"Georgia-Pacific, LLC (Brewton, AL)",
