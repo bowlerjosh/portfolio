@@ -2,19 +2,18 @@
   "main": {
     "name":"Josh Carter",
     "occupation":"Engineering Manger, Mobile Software",
-    "description":"I am a self driven Apple enthusiast who is always thinking about how to automate a process and make things more streamlined.",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description":"I am a self driven Apple enthusiast who is always thinking about how to automate a process and make things more streamlined",
+    "image":"profilepic.jpeg",
+    "bio":"Love my wife and two sons | Huge Auburn sports fan | Huge Braves fan | Appreciate a good video game | League Bowler (~200 book average)",
     "contactmessage":"If you would like to get in touch with me, please reach out!",
     "email": "jpc82092@hotmail.com",
-    "phone": "555-555-5555",
+    "phone": "",
     "address":{
-      "street":"(Your Street)",
+      "street":"",
       "city":"Auburn",
       "state":"AL",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
@@ -39,7 +38,7 @@
     "education":[
       {
         "school":"Auburn University",
-        "degree":"Bachelor's of Software Engineering &",
+        "degree":"Bachelor's of Software Engineering",
         "graduated":"May 2016",
         "description":"Completed my bachelors at Auburn University while working part time in mobile app development from Sophomore to Senior year.  Also received a Cooperative Education Diploma while working 4 alternating semesters."
       }
@@ -64,7 +63,7 @@
         "description":"- Help develop apps with a team to a high quality level for the buyer’s specifications\n- Coordinate and participate in the implementation, testing, and support of iOS-based applications\n- Assist in testing all applications against software and hardware versions.\n- Provide timely turnaround and documentation of bug fixes during test cycle."
       },
       {
-        "company":"Georgia-Pacific LLC, (Brewton, AL)",
+        "company":"Georgia-Pacific, LLC (Brewton, AL)",
         "title":"IT Co-Op",
         "years":"Fall Semester 2012, Summer Semester 2013, Spring Semester 2014, and Fall Semester 2014",
         "description":"Provided 1st level support and knowledge involving all hardware and software including workstations, laptops, servers, thin clients, and more."
@@ -121,7 +120,7 @@
       },
       {
         "name":"Kotlin",
-        "level":"10%"
+        "level":"5%"
       },
       {
         "name":"CSS",

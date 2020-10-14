@@ -151,6 +151,7 @@ ul#nav {
 
    /* center align the menu */
    text-align: center;
+   background-color: #000000;
 }
 ul#nav li {
    position: relative;
@@ -179,7 +180,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #f890e7; }
 
 
 /* ------------------------------------------------------------------ */
@@ -198,12 +199,12 @@ ul#nav li.current a { color: #F06000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #f890e7;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #FFFFFF;
 }
 #about .profile-pic {
    position: relative;
@@ -236,26 +237,32 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #121212;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #0bd3d3; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+   color:#f890E7
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #0bd3d3;
    padding-bottom: 6px;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color:#0bd3d3
+}
+
+#resume p {
+   color:#FFF
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -298,13 +305,13 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
+  	background: #313131;
   	height: 42px;
   	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #0bd3d3;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -318,7 +325,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #ccc;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -417,7 +424,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #0bd3d3;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -427,7 +434,10 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #FFFFFF;
+}
+#portfolio h2 {
+   color: #FFFFFF
 }
 
 /* Portfolio Content */
@@ -596,7 +606,7 @@ ul#nav li.current a { color: #F06000; }
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #fff;
+   color: #f890e7;
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
@@ -645,7 +655,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/header-background.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -794,10 +804,10 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #121212;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #FFFFFF;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -808,7 +818,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #EBEEEE;
+   color: #f890e7;
    margin-bottom: 6px;
 }
 #contact h1 span { display: none; }
@@ -820,12 +830,12 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #ebeeee;
+   color: #0bd3d3;
 }
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
-   color: #EBEEEE;
+   color: #0bd3d3;
    margin-bottom: 6px;
 }
 #contact p.lead {
@@ -840,7 +850,7 @@ call-to-action .button {
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
-   color: #EBEEEE;
+   color: #0bd3d3;
 	display: inline-block;
 	float: left;
    width: 26%;
@@ -937,9 +947,10 @@ footer {
    font-size: 14px;
    text-align: center;
    position: relative;
+   background-color: #f890e7;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: #FFF; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
@@ -952,6 +963,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
+    color:#FFFFFF;
 }
 .ie footer .copyright li {
    display: inline;
@@ -960,7 +972,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #FFFFFF;
 }
 footer .copyright  li:first-child:before {
     display: none;
@@ -977,7 +989,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #f890e7;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
