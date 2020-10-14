@@ -4,7 +4,7 @@
     "occupation":"Software Engineering Manger",
     "description":"I am a software engineer and a people person at heart.  I am mobile app development focused (iOS and Android) and primarily work on client requested apps.  I always give 110% to any problem and always have a \"knock-it-out\" attitude.  I'm always looking at a process or product and trying to make it more streamlined and simple",
     "image":"/profilepic.jpeg",
-    "bio":"Love my wife and two sons | Huge Auburn sports fan | Huge Braves fan | Appreciate a good video game | League Bowler (~200 book average)",
+    "bio":"Love my wife and two sons | Huge Auburn sports fan | Huge Braves fan | Appreciate a good video game | League Bowler (~200 book average) | “You are you. Now, isn’t that pleasant?” – Dr. Seuss",
     "contactmessage":"If you would like to get in touch with me, please reach out! \"The man who asks a stupid question is a fool for a minute. The man who does not ask a stupid question is a fool for life.\"",
     "email": "jpc82092@hotmail.com",
     "phone": "",
@@ -14,7 +14,7 @@
       "state":"AL",
       "zip": ""
     },
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"twitter",
@@ -34,7 +34,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have many skills that are focused around mobile app development, app design, and management.  I would never say I am 100% efficient in any skill as there is always the ability to learn more.",
+    "skillmessage":"I have many skills that are focused around mobile app development, app design, and management. | “Every artist was first an amateur.” ― Ralph Waldo Emerson",
     "education":[
       {
         "school":"Auburn University",
@@ -167,6 +167,14 @@
       {
         "text":"Do or Do Not, There is No Try.",
         "user":"Yoda"
+      }, 
+      {
+        "text":"When somebody begins a sentence with “IT WOULD BE NICE IF..” the right thing to do is to wait politely for the speaker to finish. No project ever gets around to the it-would-be-nice features: or if they do, they regret it. Wait for sentences that begin “WE HAVE TO..” and pay close attention, and see if you agree.",
+        "user":"Tom Van Vleck"
+      },
+      {
+        "text":"Simple things should be simple, complex things should be POSSIBLE.",
+        "user":""
       }
     ]
   }
