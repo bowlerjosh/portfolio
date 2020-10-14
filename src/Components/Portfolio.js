@@ -30,7 +30,7 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Works.</h1>
+            <h1>View some examples of apps I have worked on.  I may have touched these projects below in any way such as design, development, project management, or more. <br/> "I did then what I knew how to do. Now that I know better, I do better."― Maya Angelou</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
